@@ -1,4 +1,115 @@
-body
 {
-    color:blue;
+
+    
+
+    background-image: url("../imgs/B/coffee.jpg");
+
+    background-repeat: no-repeat;
+
+    background-position: bottom top;
+
+    color:darkred;
+
+    
+
+    
+
+}
+
+
+
+/*alighned header better*/
+
+h1
+
+{
+
+    text-align: center;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* table stuff*/
+
+table
+
+{
+
+    background-blend-mode: color;
+
+    background-color: beige;
+
+    border-style: solid;
+
+
+
+}
+
+/* hover over a cell and it will chnage color*/
+
+td:hover
+
+{
+
+    background-color: aliceblue;
+
+}
+
+
+
+
+
+
+
+
+
+/*Link code */
+
+a:link
+
+{
+
+    color: coral;
+
+}
+
+/*Link clicked code */
+
+a:active
+
+{
+
+    color: gold;
+
+}
+
+/*Link visted code */
+
+a:visited
+
+{
+
+    color: black;
+
+}
+
+/*Link hover code */
+
+a:hover
+
+{
+
+    color: darkgoldenrod;
+
 }
