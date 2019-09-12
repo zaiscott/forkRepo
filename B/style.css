@@ -1,31 +1,52 @@
 body
-{
 
-    
 
-    background-image: url("../imgs/B/choc.jpg");
+
+{  background-image: url("../imgs/food.jpg");
+
+
 
     background-repeat: no-repeat;
 
-    background-position: bottom top;
 
-    color:darkred;
 
-    
+    background-position: center top;
 
-    
+
+
+    color:palevioletred;
+
+
 
 }
 
 
-
-/*alighned header better*/
 
 h1
 
+
+
+table, tr, th, td
+
+
+
 {
 
-    text-align: center;
+
+
+    border-style: ridge;
+
+
+
+    border-color: palevioletred;
+
+
+
+    text-decoration-color: lightpink;
+
+
+
+    
 
 
 
@@ -33,84 +54,76 @@ h1
 
 
 
-
-
-
-
-
-
-
-
-/* table stuff*/
-
-table
-
 {
 
-    background-blend-mode: color;
 
-    background-color: beige;
 
-    border-style: solid;
+    background-color: skyblue;
 
 
 
 }
 
-/* hover over a cell and it will chnage color*/
 
-td:hover
-
-{
-
-    background-color: aliceblue;
-
-}
-
-
-
-
-
-
-
-
-
-/*Link code */
-
-a:link
-
-{
-
-    color: coral;
-
-}
-
-/*Link clicked code */
-
-a:active
-
-{
-
-    color: gold;
-
-}
-
-/*Link visted code */
-
-a:visited
-
-{
-
-    color: black;
-
-}
-
-/*Link hover code */
 
 a:hover
 
+
+
 {
 
-    color: darkgoldenrod;
+
+
+    color: yellow;
+
+
+
+
+
+
+
+}
+
+
+
+a:vistied
+
+
+
+{
+
+
+
+    color: yellow;
+
+
+
+
+
+
+
+}
+
+
+
+tr:hover
+
+
+
+{
+
+
+
+    background-color: skyblue;
+
+
+
+    
+
+
+
+      
+
+
 
 }
