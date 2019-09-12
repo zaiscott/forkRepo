@@ -1,66 +1,129 @@
 body
 
+
+
 {  background-image: url("../imgs/food.jpg");
+
+
 
     background-repeat: no-repeat;
 
+
+
     background-position: center top;
 
-    color:chocolate;
+
+
+    color:palevioletred;
+
+
 
 }
+
+
 
 h1
 
+
+
 table, tr, th, td
+
+
 
 {
 
-    border-style: dashed;
 
-    border-color: brown;
 
-    text-decoration-color: darkred;
+    border-style: ridge;
+
+
+
+    border-color: palevioletred;
+
+
+
+    text-decoration-color: lightpink;
+
+
 
     
 
+
+
 }
+
+
 
 {
 
-    background-color: navajowhite;
+
+
+    background-color: skyblue;
+
+
 
 }
+
+
 
 a:hover
 
+
+
 {
 
-    color: dimgrey;
 
-
-
-}
-
-a:vistied
-
-{
 
     color: yellow;
 
 
 
+
+
+
+
 }
 
-tr:hover
+
+
+a:vistied
+
+
 
 {
 
-    background-color: orange;
 
-    
 
-      
+    color: yellow;
+
+
+
+
+
+
 
 }
 
+
+
+tr:hover
+
+
+
+{
+
+
+
+    background-color: skyblue;
+
+
+
+    
+
+
+
+      
+
+
+
+}
