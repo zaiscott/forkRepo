@@ -6,7 +6,7 @@ body
 
     background-position: center top;
 
-    color:palevioletred;
+    color:chocolate;
 
 }
 
@@ -16,11 +16,11 @@ table, tr, th, td
 
 {
 
-    border-style: ridge;
+    border-style: dashed;
 
-    border-color: palevioletred;
+    border-color: brown;
 
-    text-decoration-color: lightpink;
+    text-decoration-color: darkred;
 
     
 
@@ -28,7 +28,7 @@ table, tr, th, td
 
 {
 
-    background-color: skyblue;
+    background-color: navajowhite;
 
 }
 
@@ -36,7 +36,7 @@ a:hover
 
 {
 
-    color: yellow;
+    color: dimgrey;
 
 
 
@@ -56,7 +56,7 @@ tr:hover
 
 {
 
-    background-color: skyblue;
+    background-color: orange;
 
     
 
