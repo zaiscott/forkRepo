@@ -1,129 +1,66 @@
 body
 
-
-
-{  background-image: url("../imgs/choc.jpg");
-
-
+{  background-image: url("../imgs/food.jpg");
 
     background-repeat: no-repeat;
 
-
-
     background-position: center top;
 
-
-
-    color: ;
-
-
+    color:chocolate;
 
 }
-
-
 
 h1
 
-
-
 table, tr, th, td
-
-
 
 {
 
+    border-style: dashed;
 
+    border-color: brown;
 
-    border-style: ridge;
-
-
-
-    border-color: blue;
-
-
-
-    text-decoration-color: blue;
-
-
+    text-decoration-color: darkred;
 
     
 
-
-
 }
-
-
 
 {
 
-
-
-    background-color: blue;
-
-
+    background-color: navajowhite;
 
 }
-
-
 
 a:hover
 
-
-
 {
 
-
-
-    color: blue;
-
-
-
-
+    color: dimgrey;
 
 
 
 }
-
-
 
 a:vistied
 
-
-
 {
 
-
-
-    color: blue;
-
-
-
-
+    color: yellow;
 
 
 
 }
-
-
 
 tr:hover
 
-
-
 {
 
-
-
-    background-color: blue;
-
-
+    background-color: orange;
 
     
 
-
-
       
 
-
-
 }
+
