@@ -1,4 +1,66 @@
 body
-{
-    color:green;
+
+{  background-image: url("../imgs/food.jpg");
+
+    background-repeat: no-repeat;
+
+    background-position: center top;
+
+    color:palevioletred;
+
 }
+
+h1
+
+table, tr, th, td
+
+{
+
+    border-style: ridge;
+
+    border-color: palevioletred;
+
+    text-decoration-color: lightpink;
+
+    
+
+}
+
+{
+
+    background-color: skyblue;
+
+}
+
+a:hover
+
+{
+
+    color: hotpink;
+
+
+
+}
+
+a:vistied
+
+{
+
+    color: yellow;
+
+
+
+}
+
+tr:hover
+
+{
+
+    background-color: skyblue;
+
+    
+
+      
+
+}
+
