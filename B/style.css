@@ -1,1 +1,129 @@
+body
 
+
+
+{  background-image: url("../imgs/food.jpg");
+
+
+
+    background-repeat: no-repeat;
+
+
+
+    background-position: center top;
+
+
+
+    color: blue;
+
+
+
+}
+
+
+
+h1
+
+
+
+table, tr, th, td
+
+
+
+{
+
+
+
+    border-style: ridge;
+
+
+
+    border-color: blue;
+
+
+
+    text-decoration-color: blue;
+
+
+
+    
+
+
+
+}
+
+
+
+{
+
+
+
+    background-color: blue;
+
+
+
+}
+
+
+
+a:hover
+
+
+
+{
+
+
+
+    color: blue;
+
+
+
+
+
+
+
+}
+
+
+
+a:vistied
+
+
+
+{
+
+
+
+    color: blue;
+
+
+
+
+
+
+
+}
+
+
+
+tr:hover
+
+
+
+{
+
+
+
+    background-color: blue;
+
+
+
+    
+
+
+
+      
+
+
+
+}
